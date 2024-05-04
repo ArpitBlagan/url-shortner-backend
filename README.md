@@ -1,5 +1,6 @@
-Hey there,
-About the project:
+<h3>Hey there,</h3>
+<p>About the project:</p>
+
 For postgres you can use neonDB or local using docker
 ex:
 
