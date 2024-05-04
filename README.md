@@ -1,7 +1,10 @@
 <h3>Hey there,</h3>
 <p>About the project:</p>
 
-For postgres you can use neonDB or local using docker
+For postgres DB you can use neonDB
+
+<h4>or</h4> 
+For locally running it use docker
 ex:
 
 ```bash
@@ -14,4 +17,4 @@ and url to connect to it is
    postgresql://postgres:mysecretpassword@localhost:5432/mydatabase
 ```
 
-other part is simple i think.
+other part is simple.
