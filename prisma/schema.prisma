@@ -17,5 +17,6 @@ model Record{
   original_url String
   short_code String
   visits DateTime[]
+  createAt DateTime
 }
 
