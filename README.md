@@ -1,6 +1,9 @@
 <h3>Hey there,</h3>
 <p>About the project:</p>
 
+Create a .env and have
+PORT and DATABASE_URL these to variable only
+
 For postgres DB you can use neonDB
 
 <h4>or</h4> 
